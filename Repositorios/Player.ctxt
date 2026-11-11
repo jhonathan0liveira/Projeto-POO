@@ -1,0 +1,13 @@
+#BlueJ class context
+#Wed Nov 11 10:54:36 BRT 2026
+comment0.target=Player
+comment1.target=Player()
+comment2.target=java.lang.String getName()
+comment3.params=name
+comment3.target=void setName(java.lang.String)
+comment4.target=double getDinheiro()
+comment5.params=dinheiro
+comment5.target=void setDinheiro(double)
+comment6.params=id
+comment6.target=int atacar(int)
+numComments=7
