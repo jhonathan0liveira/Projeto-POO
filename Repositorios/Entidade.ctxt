@@ -1,0 +1,29 @@
+#BlueJ class context
+#Wed Nov 11 10:23:15 BRT 2026
+comment0.target=Entidade
+comment1.target=Entidade()
+comment10.target=int getAgility()
+comment11.params=agility
+comment11.target=void setAgility(int)
+comment12.target=int getStr()
+comment13.params=str
+comment13.target=void setStr(int)
+comment14.target=int getStm()
+comment15.params=stm
+comment15.target=void setStm(int)
+comment16.target=int getStmMax()
+comment17.params=stmMax
+comment17.target=void setStmMax(int)
+comment2.target=int getId()
+comment3.params=id
+comment3.target=void setId(int)
+comment4.target=int getLvl()
+comment5.params=lvl
+comment5.target=void setLvl(int)
+comment6.target=int getHp()
+comment7.params=hp
+comment7.target=void setHp(int)
+comment8.target=int getHpMax()
+comment9.params=hpMax
+comment9.target=void setHpMax(int)
+numComments=18

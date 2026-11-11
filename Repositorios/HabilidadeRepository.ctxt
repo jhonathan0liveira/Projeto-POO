@@ -1,0 +1,19 @@
+#BlueJ class context
+#Tue Nov 10 20:11:46 BRT 2026
+comment0.target=HabilidadeRepository
+comment1.params=database
+comment1.target=HabilidadeRepository(Database)
+comment2.params=database
+comment2.target=void setDatabase(Database)
+comment3.params=habilidade
+comment3.target=Habilidade create(Habilidade)
+comment4.params=habilidade
+comment4.target=void update(Habilidade)
+comment5.params=habilidade
+comment5.target=void delete(Habilidade)
+comment6.params=id
+comment6.target=Habilidade loadFromId(int)
+comment7.target=java.util.List loadAll()
+comment8.target=java.util.List getLoadedHabilidades()
+comment9.target=Habilidade getLoadedHabilidade()
+numComments=10
