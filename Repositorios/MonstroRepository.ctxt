@@ -1,0 +1,19 @@
+#BlueJ class context
+#Fri Nov 13 20:25:12 BRT 2026
+comment0.target=MonstroRepository
+comment1.params=database
+comment1.target=MonstroRepository(Database)
+comment2.params=database
+comment2.target=void setDatabase(Database)
+comment3.params=monstro
+comment3.target=Monstro create(Monstro)
+comment4.params=monstro
+comment4.target=void update(Monstro)
+comment5.params=monstro
+comment5.target=void delete(Monstro)
+comment6.params=id
+comment6.target=Monstro loadFromId(int)
+comment7.target=java.util.List loadAll()
+comment8.target=java.util.List getLoadedMonstros()
+comment9.target=Monstro getLoadedMonstro()
+numComments=10

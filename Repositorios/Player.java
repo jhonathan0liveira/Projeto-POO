@@ -32,8 +32,9 @@ public class Player extends Entidade {
     }
     
     
-    public int atacar(int id) {
-    
+    public int atacar(int id, Monstro monstro) {
+    // versao Beta 0.1, adicionar chance de desvio baseado na velocidade
+    // adicionar tanto para hbilidade quanto para monstros tipo de dano/fraquza
         Database database = new Database("rpg.db");
         HabilidadeRepository habilidadeRepo =
             new HabilidadeRepository(database);
@@ -55,7 +56,8 @@ public class Player extends Entidade {
             }
     
             setStm(this.getStm() - custo);
-    
+            int hpMonstro = monstro.getHp();
+            monstro.setHp(hpMonstro-dano);
             return dano;
     
         } finally {
