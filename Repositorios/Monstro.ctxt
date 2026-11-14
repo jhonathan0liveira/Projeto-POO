@@ -1,5 +1,22 @@
 #BlueJ class context
-#Fri Nov 13 20:24:47 BRT 2026
+#Fri Nov 13 20:48:35 BRT 2026
 comment0.target=Monstro
 comment1.target=Monstro()
-numComments=2
+comment10.params=ataque3
+comment10.target=void setAtaque3(int)
+comment11.target=int getAtaque4()
+comment12.params=ataque4
+comment12.target=void setAtaque4(int)
+comment2.params=fraqueza
+comment2.target=Monstro(java.lang.String)
+comment3.target=java.lang.String getFraqueza()
+comment4.params=fraqueza
+comment4.target=void setFraqueza(java.lang.String)
+comment5.target=int getAtaque1()
+comment6.params=ataque1
+comment6.target=void setAtaque1(int)
+comment7.target=int getAtaque2()
+comment8.params=ataque2
+comment8.target=void setAtaque2(int)
+comment9.target=int getAtaque3()
+numComments=13

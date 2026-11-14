@@ -5,6 +5,9 @@ public class Habilidade {
 
     @DatabaseField
     protected int dano;
+    
+    @DatabaseField
+    protected String tipo;
 
     @DatabaseField
     protected String nomeSkill;
@@ -14,8 +17,15 @@ public class Habilidade {
 
     @DatabaseField(generatedId = true)
     protected int idSkill;
-
+    
     public Habilidade() {
+    }
+    
+    public String getTipo(){
+        return this.tipo;
+    }
+    public void setTipo(String tipo){ 
+        this.tipo = tipo;
     }
 
     public int getDano() {

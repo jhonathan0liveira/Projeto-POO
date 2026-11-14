@@ -1,19 +1,22 @@
 #BlueJ class context
-#Fri Nov 13 20:21:45 BRT 2026
+#Fri Nov 13 20:46:11 BRT 2026
 comment0.target=Habilidade
 comment1.target=Habilidade()
-comment10.params=dano custo nomeSkill
-comment10.target=Habilidade(int, int, java.lang.String)
-comment2.target=int getDano()
-comment3.params=dano
-comment3.target=void setDano(int)
-comment4.target=java.lang.String getNomeSkill()
-comment5.params=nomeSkill
-comment5.target=void setNomeSkill(java.lang.String)
-comment6.target=int getCusto()
-comment7.params=custo
-comment7.target=void setCusto(int)
-comment8.target=int getIdSkill()
-comment9.params=idSkill
-comment9.target=void setIdSkill(int)
-numComments=11
+comment10.target=int getIdSkill()
+comment11.params=idSkill
+comment11.target=void setIdSkill(int)
+comment12.params=dano custo nomeSkill
+comment12.target=Habilidade(int, int, java.lang.String)
+comment2.target=java.lang.String getTipo()
+comment3.params=tipo
+comment3.target=void setTipo(java.lang.String)
+comment4.target=int getDano()
+comment5.params=dano
+comment5.target=void setDano(int)
+comment6.target=java.lang.String getNomeSkill()
+comment7.params=nomeSkill
+comment7.target=void setNomeSkill(java.lang.String)
+comment8.target=int getCusto()
+comment9.params=custo
+comment9.target=void setCusto(int)
+numComments=13
