@@ -3,8 +3,8 @@
 ## 1. Identificação
 
 - **Projeto:** RPG
-- **Responsável:** Felipe Veloso
 - **Cargo:** Engenheiro de QA / Testes
+- **Responsável:** Felipe Veloso
 
 ## 2. Objetivo
 
